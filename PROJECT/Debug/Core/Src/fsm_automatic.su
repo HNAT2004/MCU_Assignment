@@ -1,0 +1,8 @@
+fsm_automatic.c:23:6:SetMode	40	static
+fsm_automatic.c:74:6:ChangeModeX	8	static
+fsm_automatic.c:93:6:ChangeModeY	8	static
+fsm_automatic.c:112:6:fsm_clock	40	static
+fsm_automatic.c:130:6:fsm_mode	40	static
+fsm_automatic.c:142:6:Walking_LED	8	static
+fsm_automatic.c:156:6:fsm_automatic_runx	8	static
+fsm_automatic.c:201:6:fsm_automatic_runy	8	static
